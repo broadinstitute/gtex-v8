@@ -1,0 +1,56 @@
+tissue_id	tissue_site	tissue_site_detail	tissue_abbrv	uberon_id	color_rgb	color_hex
+Adipose_Subcutaneous	Adipose Tissue	Adipose - Subcutaneous	ADPSBQ	0002190	255,102,0	#FF6600
+Adipose_Visceral_Omentum	Adipose Tissue	Adipose - Visceral (Omentum)	ADPVSC	0010414	255,170,0	#FFAA00
+Adrenal_Gland	Adrenal Gland	Adrenal Gland	ADRNLG	0002369	51,221,51	#33DD33
+Artery_Aorta	Blood Vessel	Artery - Aorta	ARTAORT	0001496	255,85,85	#FF5555
+Artery_Coronary	Blood Vessel	Artery - Coronary	ARTCRN	0001621	255,170,153	#FFAA99
+Artery_Tibial	Blood Vessel	Artery - Tibial	ARTTBL	0007610	255,0,0	#FF0000
+Bladder	Bladder	Bladder	BLDDER	0001255	170,0,0	#AA0000
+Brain_Amygdala	Brain	Brain - Amygdala	BRNAMY	0001876	238,238,0	#EEEE00
+Brain_Anterior_cingulate_cortex_BA24	Brain	Brain - Anterior cingulate cortex (BA24)	BRNACC	0009835	238,238,0	#EEEE00
+Brain_Caudate_basal_ganglia	Brain	Brain - Caudate (basal ganglia)	BRNCDT	0001873	238,238,0	#EEEE00
+Brain_Cerebellar_Hemisphere	Brain	Brain - Cerebellar Hemisphere	BRNCHB	0002037	238,238,0	#EEEE00
+Brain_Cerebellum	Brain	Brain - Cerebellum	BRNCHA	0002037	238,238,0	#EEEE00
+Brain_Cortex	Brain	Brain - Cortex	BRNCTXA	0001870	238,238,0	#EEEE00
+Brain_Frontal_Cortex_BA9	Brain	Brain - Frontal Cortex (BA9)	BRNCTXB	0009834	238,238,0	#EEEE00
+Brain_Hippocampus	Brain	Brain - Hippocampus	BRNHPP	0001954	238,238,0	#EEEE00
+Brain_Hypothalamus	Brain	Brain - Hypothalamus	BRNHPT	0001898	238,238,0	#EEEE00
+Brain_Nucleus_accumbens_basal_ganglia	Brain	Brain - Nucleus accumbens (basal ganglia)	BRNNCC	0001882	238,238,0	#EEEE00
+Brain_Putamen_basal_ganglia	Brain	Brain - Putamen (basal ganglia)	BRNPTM	0001874	238,238,0	#EEEE00
+Brain_Spinal_cord_cervical_c-1	Brain	Brain - Spinal cord (cervical c-1)	BRNSPC	0006469	238,238,0	#EEEE00
+Brain_Substantia_nigra	Brain	Brain - Substantia nigra	BRNSNG	0002038	238,238,0	#EEEE00
+Breast_Mammary_Tissue	Breast	Breast - Mammary Tissue	BREAST	0008367	51,204,204	#33CCCC
+Cells_Cultured_fibroblasts	Skin	Cells - Cultured fibroblasts	FIBRBLS	EFO_0002009	170,238,255	#AAEEFF
+Cells_EBV-transformed_lymphocytes	Blood Vessel	Cells - EBV-transformed lymphocytes	LCL	EFO_0000572	204,102,255	#CC66FF
+Cervix_Ectocervix	Cervix Uteri	Cervix - Ectocervix	CVXECT	0012249	255,204,204	#FFCCCC
+Cervix_Endocervix	Cervix Uteri	Cervix - Endocervix	CVSEND	0000458	204,170,221	#CCAADD
+Colon_Sigmoid	Colon	Colon - Sigmoid	CLNSGM	0001159	238,187,119	#EEBB77
+Colon_Transverse	Colon	Colon - Transverse	CLNTRN	0001157	204,153,85	#CC9955
+Esophagus_Gastroesophageal_Junction	Esophagus	Esophagus - Gastroesophageal Junction	ESPGEJ	0004550	139,115,85	#8B7355
+Esophagus_Mucosa	Esophagus	Esophagus - Mucosa	ESPMCS	0006920	85,34,0	#552200
+Esophagus_Muscularis	Esophagus	Esophagus - Muscularis	ESPMSL	0004648	187,153,136	#BB9988
+Fallopian_Tube	Fallopian Tube	Fallopian Tube	FLLPNT	0003889	255,204,204	#FFCCCC
+Heart_Atrial_Appendage	Heart	Heart - Atrial Appendage	HRTAA	0006631	153,0,255	#9900FF
+Heart_Left_Ventricle	Heart	Heart - Left Ventricle	HRTLV	0006566	102,0,153	#660099
+Kidney_Cortex	Kidney	Kidney - Cortex	KDNCTX	0001225	34,255,221	#22FFDD
+Kidney_Medulla	Kidney	Kidney - Medulla	KDNMDL	0001293	51,255,194	#33FFC2
+Kidney_Medulla	Kidney	Kidney - Medulla	KDNMDL	0001293	51,255,194	#33FFC2
+Liver	Liver	Liver	LIVER	0001114	170,187,102	#AABB66
+Lung	Lung	Lung	LUNG	0008952	153,255,0	#99FF00
+Minor_Salivary_Gland	Salivary Gland	Minor Salivary Gland	SLVRYG	0006330	153,187,136	#99BB88
+Muscle_Skeletal	Muscle	Muscle - Skeletal	MSCLSK	0011907	170,170,255	#AAAAFF
+Nerve_Tibial	Nerve	Nerve - Tibial	NERVET	0001323	255,215,0	#FFD700
+Ovary	Ovary	Ovary	OVARY	0000992	255,170,255	#FFAAFF
+Pancreas	Pancreas	Pancreas	PNCREAS	0001150	153,85,34	#995522
+Pituitary	Pituitary	Pituitary	PTTARY	0000007	170,255,153	#AAFF99
+Prostate	Prostate	Prostate	PRSTTE	0002367	221,221,221	#DDDDDD
+Skin_Not_Sun_Exposed_Suprapubic	Skin	Skin - Not Sun Exposed (Suprapubic)	SKINNS	0036149	0,0,255	#0000FF
+Skin_Sun_Exposed_Lower_leg	Skin	Skin - Sun Exposed (Lower leg)	SKINS	0004264	119,119,255	#7777FF
+Small_Intestine_Terminal_Ileum	Small Intestine	Small Intestine - Terminal Ileum	SNTTRM	0001211	85,85,34	#555522
+Spleen	Spleen	Spleen	SPLEEN	0002106	119,136,85	#778855
+Stomach	Stomach	Stomach	STMACH	0000945	255,221,153	#FFDD99
+Testis	Testis	Testis	TESTIS	0000473	170,170,170	#AAAAAA
+Thyroid	Thyroid	Thyroid	THYROID	0002046	0,102,0	#006600
+Uterus	Uterus	Uterus	UTERUS	0000995	255,102,255	#FF66FF
+Vagina	Vagina	Vagina	VAGINA	0000996	255,85,153	#FF5599
+Whole_Blood	Blood	Whole Blood	WHLBLD	0013756	255,0,187	#FF00BB

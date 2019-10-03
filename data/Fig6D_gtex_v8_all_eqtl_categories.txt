@@ -1,0 +1,7 @@
+	"All
+eQTLs"
+Positive corr.	1034
+Negative corr.	937
+Uninterpretable	666
+Uncorrelated	23862
+NA (low expr.)	6588

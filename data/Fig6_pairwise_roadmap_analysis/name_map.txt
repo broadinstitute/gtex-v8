@@ -1,0 +1,28 @@
+roadmap_p8	ZNF/Rpts
+roadmap_p4	Tx
+roadmap_p1	Active TSS
+roadmap_p6	EnhG
+roadmap_p5	TxWk
+roadmap_p2	TssAFlnk
+roadmap_p9	Het
+roadmap_p10	TssBiv
+roadmap_p3	TxFlnk
+roadmap_p7	Enh
+roadmap_p12	EnhBiv
+roadmap_p14	ReprPCWk
+roadmap_p13	ReprPC
+roadmap_p11	BivFlnk
+vep_effectcanonical_splice_variant	Canonical Splice
+vep_effectstop_gained	Stop Gained
+vep_effectsplice_region_variant	Splice Region
+vep_effectnon_coding_transcript_exon_variant	NC Transcript
+vep_effect5_prime_UTR_variant	5' UTR
+vep_effect3_prime_UTR_variant	3' UTR
+vep_effectcoding_variant	Coding Variant
+vep_effectintron_variant	Intronic
+variant_indelTRUE	INDEL
+linsight	Conservation
+ensembl_ctcfbs1	CTCF Peak
+ensembl_motif1	Motif
+ensembl_tfbs1	TF Peak
+ensembl_dhs1	DHS

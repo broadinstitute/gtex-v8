@@ -1,0 +1,50 @@
+TISSUE_ABBRV	TISSUE_NAME	SMTSD	TISSUE_RCOL	TISSUE_HARMEN	afc	tf_expr
+1	ADPSBQ	Adipose_Subcutaneous	Adipose - Subcutaneous	tan1	Adipose_Subcutaneous	-0.686339663536	132.9
+2	ADPVSC	Adipose_Visceral_Omentum	Adipose - Visceral (Omentum)	orange2	Adipose_Visceral	-0.886695100945	709.5
+3	ADRNLG	Adrenal_Gland	Adrenal Gland	darkseagreen	Adrenal_Gland	-0.396110108836	84.575
+4	ARTAORT	Artery_Aorta	Artery - Aorta	maroon4	Artery_Aorta	-0.760996104988	562.6
+5	ARTCRN	Artery_Coronary	Artery - Coronary	coral2	Artery_Coronary	-0.332985957143	389.55
+6	ARTTBL	Artery_Tibial	Artery - Tibial	red	Artery_Tibial	-0.308853428685	212.5
+7	BREAST	Breast_Mammary_Tissue	Breast - Mammary Tissue	cyan3	Breast_Mammary_Tissue	-0.807518875945	191.7
+8	BRNACC	Brain_Anterior_cingulate_cortex_BA24	Brain - Anterior cingulate cortex (BA24)	yellow2	Anterior Cingulate Cortex	-0.126250199364	22.4
+9	BRNAMY	Brain_Amygdala	Brain - Amygdala	yellow2	Amygdala	-0.12700874016	13.41
+10	BRNCDT	Brain_Caudate_basal_ganglia	Brain - Caudate (basal ganglia)	yellow2	Caudate	0.0692311076305	20.54
+11	BRNCHA	Brain_Cerebellum	Brain - Cerebellum	yellow2	Cerebellum	-3.09991775876e-05	17.04
+12	BRNCHB	Brain_Cerebellar_Hemisphere	Brain - Cerebellar Hemisphere	yellow2	Cerebellar Hemisphere	-0.00399973028037	19.07
+13	BRNCTXA	Brain_Cortex	Brain - Cortex	yellow2	Cortex	0.0333823204636	30.8
+14	BRNCTXB	Brain_Frontal_Cortex_BA9	Brain - Frontal Cortex (BA9)	yellow2	Frontal Cortex	-0.103414064199	39.7
+15	BRNHPP	Brain_Hippocampus	Brain - Hippocampus	yellow2	Hippocampus	-0.0532690498804	23.29
+16	BRNHPT	Brain_Hypothalamus	Brain - Hypothalamus	yellow2	Hypothalamus	0.0387731174266	31.035
+17	BRNNCC	Brain_Nucleus_accumbens_basal_ganglia	Brain - Nucleus accumbens (basal ganglia)	yellow2	Nucleus Accumbens	0.00378381262273	21.495
+18	BRNPTM	Brain_Putamen_basal_ganglia	Brain - Putamen (basal ganglia)	yellow2	Putamen	0.0505543791867	20.45
+19	BRNSNG	Brain_Substantia_nigra	Brain - Substantia nigra	yellow2	Substantia Nigra	-0.140563078182	8.991
+20	BRNSPC	Brain_Spinal_cord_cervical_c-1	Brain - Spinal cord (cervical c-1)	yellow2	Spinal Cord	-0.104124787659	14.92
+21	CLNSGM	Colon_Sigmoid	Colon - Sigmoid	grey	Colon_Sigmoid	-0.537760599355	159.9
+22	CLNTRN	Colon_Transverse	Colon - Transverse	burlywood2	Colon_Transverse	-0.105046590109	115.9
+23	ESPGEJ	Esophagus_Gastroesophageal_Junction	Esophagus - Gastroesophageal Junction	grey	Esophagus_Gastroesophageal_Junction	-0.497635048558	149.5
+24	ESPMCS	Esophagus_Mucosa	Esophagus - Mucosa	burlywood4	Esophagus_Mucosa	-0.156771009285	106
+25	ESPMSL	Esophagus_Muscularis	Esophagus - Muscularis	burlywood3	Esophagus_Muscularis	-0.306900502587	115.6
+26	FIBRBLS	Cells_Cultured_fibroblasts	Cells - Transformed fibroblasts	lightblue3	Cells_Transformed_Fibroblasts	-0.378507715857	206.45
+27	HRTAA	Heart_Atrial_Appendage	Heart - Atrial Appendage	mediumorchid3	Heart_Atrial_Appendage	-0.548366616548	173.2
+28	HRTLV	Heart_Left_Ventricle	Heart - Left Ventricle	mediumorchid4	Heart_Left_Ventricle	-0.473577099182	28.445
+29	KDNCTX	Kidney_Cortex	Kidney - Cortex	bisque3	Kidney_Cortex	-0.201709211213	78.18
+30	LCL	Cells_EBV-transformed_lymphocytes	Cells - EBV-transformed lymphocytes	violet	Cells_EBV_Transformed_Lymphocytes	-0.421224738818	31.685
+31	LIVER	Liver	Liver	bisque3	Liver	-0.397253149584	48.86
+32	LUNG	Lung	Lung	olivedrab3	Lung	-0.987058618593	197.55
+33	MSCLSK	Muscle_Skeletal	Muscle - Skeletal	slateblue2	Muscle_Skeletal	-0.480915575967	26.08
+34	NERVET	Nerve_Tibial	Nerve - Tibial	gold1	Nerve_Tibial	-0.59619669132	144.2
+35	OVARY	Ovary	Ovary	lightpink	Ovary	-0.371953282943	282.75
+36	PNCREAS	Pancreas	Pancreas	goldenrod3	Pancreas	-0.10437572364	46.82
+37	PRSTTE	Prostate	Prostate	grey85	Prostate	-0.48134704687	124.2
+38	PTTARY	Pituitary	Pituitary	darkseagreen2	Pituitary	-0.562165910223	402
+39	SKINNS	Skin_Not_Sun_Exposed_Suprapubic	Skin - Not Sun Exposed (Suprapubic)	royalblue3	Skin_Suprapubic	-0.318185547546	422.05
+40	SKINS	Skin_Sun_Exposed_Lower_leg	Skin - Sun Exposed (Lower leg)	dodgerblue	Skin_Lower_Leg	-0.385644130875	206
+41	SLVRYG	Minor_Salivary_Gland	Minor Salivary Gland	grey	Minor_Salivary_Gland	0.0248230557196	63.25
+42	SNTTRM	Small_Intestine_Terminal_Ileum	Small Intestine - Terminal Ileum	grey	Small_Intestine_Terminal_Ileum	-0.34792911684	65.75
+43	SPLEEN	Spleen	Spleen	grey	Spleen	-0.275181808441	30.47
+44	STMACH	Stomach	Stomach	burlywood1	Stomach	-0.271879882217	125.4
+45	TESTIS	Testis	Testis	grey65	Testis	0.0343680305924	23.34
+46	THYROID	Thyroid	Thyroid	springgreen4	Thyroid	-0.37807902819	264.7
+47	UTERUS	Uterus	Uterus	mistyrose2	Uterus	-0.878292928245	153.15
+48	VAGINA	Vagina	Vagina	mistyrose2	Vagina	-0.380377756223	135.4
+49	WHLBLD	Whole_Blood	Whole Blood	magenta	Whole_Blood	-0.089717708792	2.66

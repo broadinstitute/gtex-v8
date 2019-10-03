@@ -1,0 +1,19 @@
+
+                Intercept    -11.095       -11.182    -11.007
+               enhancer.1      0.645        -0.904      2.195
+               promoter.1      0.373        -1.053      1.799
+  open_chromatin_region.1      1.090         0.341      1.838
+promoter_flanking_region.1      1.005         0.241      1.769
+      CTCF_binding_site.1      1.347         0.646      2.048
+        TF_binding_site.1    -41.844      -105.381     21.693
+    3_prime_UTR_variant.1      1.345        -0.288      2.978
+    5_prime_UTR_variant.1      1.813        -0.562      4.187
+     frameshift_variant.1    -22.444      -417.547    372.659
+         intron_variant.1      0.597         0.350      0.844
+       missense_variant.1      1.376        -1.051      3.803
+non_coding_transcript_exon_variant.1      2.230         1.491      2.968
+splice_acceptor_variant.1    -24.481      -514.008    465.045
+   splice_donor_variant.1      2.358       -19.162     23.877
+  splice_region_variant.1    -45.415      -260.628    169.797
+            stop_gained.1    -24.727      -583.317    533.863
+     synonymous_variant.1    -46.432      -171.631     78.767
