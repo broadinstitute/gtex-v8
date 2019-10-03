@@ -1,6 +1,6 @@
 ## GTEx V8 
 
-This repository contains notebooks and scripts for reproducing analyses and figures from the paper [The GTEx Consortium atlas of genetic regulatory effects across human tissues](https://www.biorxiv.org/content/).
+This repository contains notebooks and scripts for reproducing analyses and figures from the paper [The GTEx Consortium atlas of genetic regulatory effects across human tissues](https://www.biorxiv.org/content/10.1101/787903v1).
 
 
 #### Requirements
@@ -50,4 +50,4 @@ wget https://storage.googleapis.com/gtex_analysis_v8/reference/gencode.v26.GRCh3
 wget https://storage.googleapis.com/gtex_analysis_v8/reference/WGS_Feature_overlap_collapsed_VEP_short_4torus.MAF01.txt.gz
 ```
 
-A subset of the figures require genotype information. The VCF can be obtained from dbGaP (accession [phs000424](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000424)) of from [AnVIL](https://anvil.terra.bio/#workspaces/anvil-datastorage/AnVIL_GTEx_V8_hg38) (requires dbGaP authentication).
+A subset of the figures require genotype information. The VCF can be obtained from dbGaP (accession [phs000424](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000424)) or from [AnVIL](https://anvil.terra.bio/#workspaces/anvil-datastorage/AnVIL_GTEx_V8_hg38) (requires dbGaP authentication).
