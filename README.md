@@ -10,6 +10,7 @@ The following Python modules are needed to run the notebooks:
 The notebooks require data from the [GTEx Portal](https://gtexportal.org) to run (by default, the data is assumed to be accessible in the `data` directory of this repository). Running the following commands will download the relevant files:
 ```
 cd data
+
 # QTLs
 wget https://storage.googleapis.com/gtex_analysis_v8/single_tissue_qtl_data/GTEx_Analysis_v8_eQTL.tar && \
     tar xf GTEx_Analysis_v8_eQTL.tar && rm GTEx_Analysis_v8_eQTL.tar
