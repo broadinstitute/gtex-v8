@@ -1,6 +1,6 @@
 ## GTEx V8 
 
-This repository contains notebooks and scripts for reproducing analyses and figures from the paper [The GTEx Consortium atlas of genetic regulatory effects across human tissues](https://www.biorxiv.org/content/10.1101/787903v1).
+This repository contains notebooks and scripts for reproducing analyses and figures from the paper [The GTEx Consortium atlas of genetic regulatory effects across human tissues, *Science*, 2020](https://science.sciencemag.org/content/369/6509/1318).
 
 
 #### Requirements
